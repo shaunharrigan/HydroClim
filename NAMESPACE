@@ -2,3 +2,4 @@
 
 export(testFun)
 export(xyPlot)
+export(xyPlotBlue)
