@@ -1,0 +1,15 @@
+Package: HydroClim
+Type: Package
+Title: HydroClim: A set of handy functions for Hydroclimatic analysis
+Version: 0.1.0
+Authors@R: person("Harrigan", "Shaun", email = "shaun.p.harrigan@gmail.com", role = c("aut", "cre"))
+Maintainer: Shaun Harrigan <shaun.p.harrigan@gmail.com>
+Description: What the package does (one paragraph). 
+Depnds: R (>= 3.3.2)
+License: GPL-2 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
